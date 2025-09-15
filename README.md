@@ -29,8 +29,8 @@ The project demonstrates data modelling, query writing, and insight generation u
   ![](h<img width="642" height="236" alt="image" src="https://github.com/user-attachments/assets/f86dcd7e-eef4-4465-bf76-547b6c553ff3" />
 )
 
-![](<img width="309" height="122" alt="image" src="https://github.com/user-attachments/assets/63c6dfa5-e61f-42d4-8dbf-d355caedbc2a" />
-.png)
+![](<img width="309" height="122" alt="image" src="https://github.com/user-attachments/assets/63c6dfa5-e61f-42d4-8dbf-d355caedbc2a" />.png)
+
 
 - Monthly sales trends revealed seasonal fluctuations.
   ![](<img width="677" height="211" alt="image" src="https://github.com/user-attachments/assets/9348f874-238a-4ff6-965e-f215b88e3f3e" />
