@@ -24,9 +24,8 @@ The project demonstrates data modelling, query writing, and insight generation u
 ---
 
 ##   Key insights
--[cover_page](<img width="360" height="520" alt="Screenshot 2025-09-15 170655" src="https://github.com/user-attachments/assets/74d2b196-3dfc-49ce-8f77-21261015e5ff" />
-)
-
+![cover_page](<img width="360" height="520" alt="Screenshot 2025-09-15 170655" src="https://github.com/user-attachments/assets/26f86746-8f21-4407-832b-34745c240b1e" />
+.png)
 - Top-spending customers were identified to support loyalty strategies.  
 - Monthly sales trends revealed seasonal fluctuations.  
 - Best-selling products and average order values provided guidance for inventory and promotions.
