@@ -26,7 +26,9 @@ The project demonstrates data modelling, query writing, and insight generation u
 ##   Key insights
 
 - Top-spending customers were identified.
-- ![Query](<img width="641" height="243" alt="image" src="https://github.com/user-attachments/assets/e051bcbf-ee8d-40c0-89b2-0de2bb59f46a" /)
+![Screenshot](<img width="305" height="123" alt="Screenshot 2025-10-09 085746" src="https://github.com/user-attachments/assets/d5a81a5d-3dd0-4178-af1a-63ed2c58a6fd" />
+.png)
+
 
 
 
