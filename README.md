@@ -5,6 +5,7 @@ SQL portfolio project analysing customer spending and sales trends.
 
 ##  Overview
 This project is part of my SQL portfolio.  
+
 It analyses a small sales dataset to understand customer spending, product performance, and monthly sales trends.  
 The project demonstrates data modelling, query writing, and insight generation using SQL.
 
