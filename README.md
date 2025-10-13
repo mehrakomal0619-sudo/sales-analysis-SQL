@@ -28,13 +28,11 @@ The project demonstrates data modelling, query writing, and insight generation u
 - Top-spending customers were identified to support loyalty strategies.
 
  <img width="647" height="228" alt="image" src="https://github.com/user-attachments/assets/944f9dfc-9e9e-4228-9076-8b0348fad86b" />
- 
  <img width="309" height="122" alt="image" src="https://github.com/user-attachments/assets/63c6dfa5-e61f-42d4-8dbf-d355caedbc2a" />
 
 - Monthly sales trends revealed seasonal fluctuations.
 
   <img width="677" height="211" alt="image" src="https://github.com/user-attachments/assets/9348f874-238a-4ff6-965e-f215b88e3f3e" />
-  
   <img width="331" height="119" alt="image" src="https://github.com/user-attachments/assets/29e65bd6-2670-4136-8b73-62f73f8b74ee" />
 
 - Average order values
@@ -46,7 +44,6 @@ The project demonstrates data modelling, query writing, and insight generation u
 - Best-selling products
 
 <img width="548" height="187" alt="image" src="https://github.com/user-attachments/assets/c9ba56c8-efa0-4dd8-9c53-a1e60cf22ba8" />
-
 <img width="302" height="111" alt="image" src="https://github.com/user-attachments/assets/b2bfd6e2-6c64-480b-8b10-9771da8c3254" />
 
 ---
