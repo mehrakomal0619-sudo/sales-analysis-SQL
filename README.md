@@ -57,4 +57,6 @@ The project demonstrates data modelling, query writing, and insight generation u
 ## 📧 Contact
 If you’d like to discuss this project or other data work, you can reach me at:
 - Email: *komalmehra0619@gmail.com*
-- LinkedIn: linkedin.com/in/komal-mehra19
+-  LinkedIn: [Komal Mehra](https://www.linkedin.com/in/komal-mehra19/)
+
+
