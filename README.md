@@ -38,7 +38,6 @@ The project demonstrates data modelling, query writing, and insight generation u
 - Average order values
 
 <img width="696" height="336" alt="image" src="https://github.com/user-attachments/assets/a97a2384-19e8-457e-9a17-ab468c38daf5" />
-
 <img width="369" height="132" alt="image" src="https://github.com/user-attachments/assets/9549ef83-2ba7-47e6-9a95-5a808ac03df6" />
 
 - Best-selling products
