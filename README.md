@@ -35,10 +35,11 @@ The project demonstrates data modelling, query writing, and insight generation u
 - <img width="309" height="122" alt="image" src="https://github.com/user-attachments/assets/63c6dfa5-e61f-42d4-8dbf-d355caedbc2a" />
 
 
-- Monthly sales trends revealed seasonal fluctuations.
+- Top-spending customers were identified to support loyalty strategies.
 
  -  <img width="677" height="211" alt="image" src="https://github.com/user-attachments/assets/9348f874-238a-4ff6-965e-f215b88e3f3e" />
 
+- Monthly sales trends revealed seasonal fluctuations.
 
 - <img width="331" height="119" alt="image" src="https://github.com/user-attachments/assets/29e65bd6-2670-4136-8b73-62f73f8b74ee" />
 
@@ -47,6 +48,7 @@ The project demonstrates data modelling, query writing, and insight generation u
 
 - <img width="648" height="188" alt="image" src="https://github.com/user-attachments/assets/4fe209c9-c85c-4196-970f-ed89b01374c6" />
 
+- Customers who bought multiple products in the same order were identified for potential upselling.
 
   -<img width="369" height="132" alt="image" src="https://github.com/user-attachments/assets/9549ef83-2ba7-47e6-9a95-5a808ac03df6" />
 
