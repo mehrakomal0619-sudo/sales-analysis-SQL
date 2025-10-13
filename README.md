@@ -29,9 +29,6 @@ The project demonstrates data modelling, query writing, and insight generation u
 
 - <img width="305" height="123" alt="Screenshot 2025-10-09 085746" src="https://github.com/user-attachments/assets/d5a81a5d-3dd0-4178-af1a-63ed2c58a6fd" />
 
-
-
-
 - <img width="309" height="122" alt="image" src="https://github.com/user-attachments/assets/63c6dfa5-e61f-42d4-8dbf-d355caedbc2a" />
 
  Monthly sales trends revealed seasonal fluctuations.
