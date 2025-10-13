@@ -1,4 +1,4 @@
-# sales-analysis-SQL
+# Sales-analysis-SQL
 SQL portfolio project analysing customer spending and sales trends.
 
 # SQL Portfolio – Sales Analysis
